@@ -4,4 +4,4 @@ This is where I will be putting my "small" projects alongside my portfolio
 
 ## Log 1 - 20 April 2025
 
-Added calculator project
+Added calculator project version 1, will be updated later
