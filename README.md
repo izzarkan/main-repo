@@ -8,6 +8,10 @@ Added calculator project version 1, will be updated later
 
 ## Log 2 - 21 April 2025
 
-**MAJOR CHANGES**
+### MAJOR CHANGES
 
-Made the landing (main) site better. But it still needs some improvements. (Mobile responsiveness is still quite bad...)
+Made the landing (main) site better. But it still needs some improvements. ~~(Mobile responsiveness is still quite bad...)~~ **Fixed now. (As of 21 Apr 25, 21:21)**
+
+#### Sub-log 1
+
+Added social links, added more mobile responsiveness. Might add Gallery if I'm not lazy. Tidied up the web, and not the source code. It's a mess.
