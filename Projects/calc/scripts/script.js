@@ -147,6 +147,6 @@ document.getElementById('convert-btn').addEventListener('click', () => {
     }
 
     const result = convertTime(value, fromUnit, toUnit);
-    document.getElementById('conversion-result').value = result.toFixed(4); // Show result with 4 decimal places
+    document.getElementById('conversion-result').value = result.toFixed(0); // Show result with 4 decimal places
 });
 
