@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #fff; /* Match this to your gradient end */
+    background-color: #fff;
     margin: 0;
     padding-top: 56px;
     max-height: 100vh;
@@ -21,21 +21,16 @@ body {
 #hero {
     display: flex;
     flex-direction: column;
-    align-items: center;       /* Horizontally center */
-    justify-content: flex-start; /* Align items to the top */
-    padding-top: 2rem;          /* Optional: add some space from the top */
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 2rem;
     text-align: center;
     padding-bottom: 4rem;
-    background: linear-gradient(to bottom, #2b1055, #ffff); /* gradient -> match bg */
+    background: linear-gradient(to bottom, #2b1055, #ffff);
     color: white;
     cursor: default;
     max-width: 100%;
 }
-
-/* #about-me,
-#projects {
-  scroll-margin-top: 2.5rem;
-} */
 
 #about-me {
     margin-top: 0;
@@ -65,7 +60,7 @@ body {
     width: 90%;
     text-align: left;
     margin: 0 auto;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 1rem;
     opacity: 0;
     transform: translateY(20px);
@@ -100,7 +95,7 @@ body {
   }
   
   .hidden-text.show {
-    max-height: 1000px; /* Set a value that exceeds the expected content height */
+    max-height: 1000px;
     opacity: 1;
   }
 
@@ -167,17 +162,17 @@ body {
 
 #social-links {
     display: flex;
-    flex-direction: column; /* Stack elements vertically */
+    flex-direction: column;
     justify-content: center;
-    align-items: center;    /* Center align both text and icons */
+    align-items: center;
     gap: 1rem;
     margin-top: 1rem;
 }
 
 .links {
-    display: flex;           /* Use flex to align icons horizontally */
-    justify-content: center; /* Center icons horizontally */
-    gap: 1rem;               /* Add some space between icons */
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
 }
 
 a {
