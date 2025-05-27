@@ -15,3 +15,7 @@ Made the landing (main) site better. But it still needs some improvements. ~~(Mo
 #### Sub-log 1
 
 Added social links, added more mobile responsiveness. Might add Gallery if I'm not lazy. Tidied up the web, and not the source code. It's a mess.
+
+## Log 3 - 27 May 2025
+
+Just simply updated the HTML. Yes, Gallery is SCRAPPED.
