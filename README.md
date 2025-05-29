@@ -19,3 +19,15 @@ Added social links, added more mobile responsiveness. Might add Gallery if I'm n
 ## Log 3 - 27 May 2025
 
 Just simply updated the HTML. Yes, Gallery is SCRAPPED.
+
+## Log 4 - 29 May 2025
+
+Simply tweaked it out juuuust a little...
+
+- **"Quirky"** title
+- FavICON, YES
+- Added Twitter/X Link
+- Fixed alignment
+- Removed Gallery
+
+That's all, thanks.
