@@ -23,3 +23,33 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         });
       };
 })});
+
+const sections = document.querySelectorAll("section");
+
+window.addEventListener("scroll", () => {
+  let current = "";
+  sections.forEach((section) => {
+    const sectionTop = section.offsetTop;
+    if (pageYOffset >= sectionTop - window.innerHeight / 2) {
+      current = section.getAttribute("id");
+    }
+  });
+
+  // Update the title based on current section
+  switch (current) {
+    case "about-me":
+      document.title = "Izz - About Me";
+      break;
+    case "projects":
+      document.title = "Izz - Projects";
+      break;
+    case "todo":
+      document.title = "Izz - Todo List";
+      break;
+    case "contact":
+      document.title = "Contact - My Site";
+      break;
+    default:
+      document.title = "Izz - Home";
+  }
+});
