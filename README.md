@@ -34,4 +34,8 @@ Simply tweaked it out juuuust a little...
 
 I simply disabled the projects, why? I'm going to make a separate repository for my projects. Although the Anchor Tag is still there.
 
+## Log 6 - 1 October 2025
+
+Archived this repo, since I'm making a new one.
+
 That's all, thanks.
