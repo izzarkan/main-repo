@@ -30,4 +30,8 @@ Simply tweaked it out juuuust a little...
 - Fixed alignment
 - Removed Gallery
 
+## Log 5 - 30 September 2025
+
+I simply disabled the projects, why? I'm going to make a separate repository for my projects. Although the Anchor Tag is still there.
+
 That's all, thanks.
